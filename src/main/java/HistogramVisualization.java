@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  *  Класс для визуализации гистограммы
- * @author Котелин Пётр <petya.kotelin@mail.ru>
+ * @author Котелин Пётр "petya.kotelin@mail.ru"
  * @see Main
  */
 

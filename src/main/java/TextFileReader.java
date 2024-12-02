@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**
  *  Класс для работы с Docx и Doc файлами
- * @author Котелин Пётр <petya.kotelin@mail.ru>
+ * @author Котелин Пётр "petya.kotelin@mail.ru"
  * @see FindWords
  */
 

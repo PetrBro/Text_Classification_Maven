@@ -2,7 +2,14 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 
+/**
+ *  Класс для создания графического интерфейса
+ * @author Котелин Пётр "petya.kotelin@mail.ru"
+ * @see Main
+ */
+
 public class JFrame_Windows extends JFrame {
+
 
     public static JTextField textfield1, textfield2;
     public static JLabel label_1, label_2, label_3, label_4, label_5;
@@ -37,7 +44,7 @@ public class JFrame_Windows extends JFrame {
         button_3 = new JButton("Таблица");
         comboBox = new JComboBox<>(array_of_topics);
         table = new JTable();
-        tableModel = new DefaultTableModel(new String[] {"Topic","Percentage of occurrence of words"},0);;
+        tableModel = new DefaultTableModel(new String[] {"Topic","Percentage of occurrence of words"},0);
         table.setModel(tableModel);
 
         label_1.setHorizontalAlignment(JLabel.CENTER);

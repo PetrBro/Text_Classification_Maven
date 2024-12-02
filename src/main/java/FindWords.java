@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * Класс, реализующий поиск слов, фраз, выражений в заданном тексте
- * @author Котелин Пётр <petya.kotelin@mail.ru>
+ * @author Котелин Пётр "petya.kotelin@mail.ru"
  * @see TextFileReader
  */
 public class FindWords {

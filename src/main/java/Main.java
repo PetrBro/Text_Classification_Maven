@@ -8,10 +8,11 @@ import java.util.Map;
 
 /**
  *  Основной класс приложения для классификации текстов по темам
- * @author Котелин Пётр <petya.kotelin@mail.ru>
+ * @author Котелин Пётр "petya.kotelin@mail.ru"
  * @version 1.0
  * @see FindWords
  * @see JFrame_Windows
+ * @see HistogramVisualization
  */
 
 public class Main extends JFrame_Windows {
